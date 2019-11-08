@@ -1,0 +1,188 @@
+@media (min-width: 1200px) {
+   #services > .container  {
+       padding-right: 30px;
+   }  
+}
+@media (min-width: 992px) and (max-width:1199px) {
+ 
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .navbar-nav{
+        float: left;
+    }
+    .navbar{
+        background: rgba(0, 0, 0, 0.50);
+        }
+     .navbar-brand {
+            padding: 0;}
+    .pebason-nav-wrapper {
+        padding: 0;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-nav{
+        float: left;
+    }
+    .navbar{
+        background: rgba(0, 0, 0, 0.50);
+        }
+    .navbar-brand  {
+        padding: 0;
+    }
+    .pebason-nav-wrapper{
+        padding: 0;
+        padding-right: 0px;
+    }
+    .servivce-item-desc p{
+        padding-left: 80px;
+    }
+    .container-fluid {
+        padding-right: 20px;
+        padding-left: 10px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #home-heading h1{
+        font-size: 28px;
+        padding: 0 20px 0 20px;
+    }
+    #home-heading h3{
+        font-size: 18px;
+    }
+    .btn-general{
+        padding: 5px 20px 5px 20px;
+        font-size: 14px;
+    }
+    .service-item-desc p{
+       font-size: 15px;
+       padding-right: 25px;
+    }
+    .about-desc p{
+       font-size: 18px;
+       text-align: center;
+       padding-left: 40px;
+       padding-right: 40px;
+    }
+    .btn-primary {
+        font-size: 12px;}
+
+        .testimonial blockquote {
+            padding: 6px 80px;
+        font-size: 15px;}
+
+     .testimonial blockquote ::before {
+                content: "\201C";
+                left: 1px;
+            height: 7px;
+        width: 7px;
+    padding-left: 50px;
+    font-size: 70px;
+}
+
+.testimonial blockquote ::after{
+content: "\201D";
+bottom: 5px;
+right: 20px;
+font-size: 70px;
+    padding-right: 50px;
+}
+.social-list li {
+    margin-left: 0px;}
+        
+}
+
+@media (max-width: 480px) {
+    .navbar-nav{
+        float: left;
+    }
+    .navbar{
+        background: rgba(0, 0, 0, 0.50);
+        }
+    .navbar-brand  {
+        padding: 0;
+    }
+    .pebason-nav-wrapper{
+        padding: 0;
+        padding-right: 0px;
+    }
+    .servivce-item-desc p{
+        padding-left: 80px;
+    }
+    .container-fluid {
+        padding-right: 20px;
+        padding-left: 10px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #home-heading h1{
+        font-size: 30px;
+    }
+    #home-heading h3{
+        font-size: 20px;
+    }
+    btn-general{
+        padding: 5px 20px 5px 20px;
+        font-size: 14px;
+    }
+    .service-item-desc p{
+        font-size: 15px;
+        padding-right: 25px;
+     }
+     .about-desc p{
+        font-size: 18px;
+        text-align: center;
+        padding-left: 40px;
+        padding-right: 40px;
+     }
+     .btn-primary {
+         font-size: 12px;}
+
+         .testimonial blockquote {
+            padding: 6px 40px;
+        font-size: 15px;}
+
+     .testimonial blockquote ::before {
+                content: "\201C";
+                left: 1px;
+            height: 7px;
+        width: 7px;
+    padding-left: 15px;
+    font-size: 70px;
+}
+
+.testimonial blockquote ::after{
+content: "\201D";
+bottom: 5px;
+right: 20px;
+font-size: 70px;
+    padding-right: 15px;
+}
+
+
+@media (max-width: 320px) {
+    .navbar-nav{
+        float: left;
+    }
+    .navbar{
+        background: rgba(0, 0, 0, 0.50);
+        }
+    .navbar-brand  {
+        padding: 0;
+    }
+    .pebason-nav-wrapper{
+        padding: 0;
+        padding-right: 0px;
+    }
+    .servivce-item-desc p{
+        padding-left: 80px;
+    }
+    .container-fluid {
+        padding-right: 20px;
+        padding-left: 10px;
+        margin-right: auto;
+        margin-left: auto; }
+    }
+}
